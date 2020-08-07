@@ -1,0 +1,225 @@
+1596792168099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZRCu0p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792171236	Marionette	INFO	Listening on port 44797
+1596792171328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1596792192154	Marionette	INFO	Stopped listening on port 44797
+1596792204860	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefFS9dn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792207509	Marionette	INFO	Listening on port 36811
+1596792207570	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1596792238815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejKPyv3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792241475	Marionette	INFO	Listening on port 42915
+1596792241755	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+1596792277813	Marionette	INFO	Stopped listening on port 36811
+1596792502668	Marionette	INFO	Stopped listening on port 42915
+1596792505816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewlNMMU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792508670	Marionette	INFO	Listening on port 42101
+1596792508750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792517224	Marionette	INFO	Stopped listening on port 42101
+1596792519922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqnLOZ3"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792522452	Marionette	INFO	Listening on port 45671
+1596792522532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792530215	Marionette	INFO	Stopped listening on port 45671
+1596792557025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiSWOVO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792559776	Marionette	INFO	Listening on port 40379
+1596792559842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1596792564153	Marionette	INFO	Stopped listening on port 40379
+1596792583508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB43sPv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792585929	Marionette	INFO	Listening on port 33699
+1596792586016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792592894	Marionette	INFO	Stopped listening on port 33699
+1596792600524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled8gJZh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792603103	Marionette	INFO	Listening on port 41987
+1596792603132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792610612	Marionette	INFO	Stopped listening on port 41987
+1596792613131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT4ma9K"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792615634	Marionette	INFO	Listening on port 40315
+1596792615643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792620011	Marionette	INFO	Stopped listening on port 40315
+1596792654932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekq8gbb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792657987	Marionette	INFO	Listening on port 40551
+1596792658057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792663945	Marionette	INFO	Stopped listening on port 40551
+1596792665467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemY2whX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792668394	Marionette	INFO	Listening on port 43729
+1596792668494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792673524	Marionette	INFO	Stopped listening on port 43729
+1596792696641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevavCI6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792699679	Marionette	INFO	Listening on port 45947
+1596792699762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792706438	Marionette	INFO	Stopped listening on port 45947
+1596792707661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSfrqr1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792710625	Marionette	INFO	Listening on port 41473
+1596792710679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792719968	Marionette	INFO	Stopped listening on port 41473
+1596792776749	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyoLYcl"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792779354	Marionette	INFO	Listening on port 45515
+1596792779404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792785449	Marionette	INFO	Stopped listening on port 45515
+1596792794304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileimI9r2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792796934	Marionette	INFO	Listening on port 42219
+1596792797024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792803479	Marionette	INFO	Stopped listening on port 42219
+1596792840064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEgnqoD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792842917	Marionette	INFO	Listening on port 40105
+1596792842982	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596792850027	Marionette	INFO	Stopped listening on port 40105
+1596792859245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyYBfeY"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596792862015	Marionette	INFO	Listening on port 44599
+1596792862153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/static/V/9499/js/bootstrap.js, line 1: Script terminated by timeout at:
+isWindow@https://ca.classistatic.com/static/V/9499/js/bootstrap.js:1:14344
+T@https://ca.classistatic.com/static/V/9499/js/bootstrap.js:1:10644
+ka.fn.offset@https://ca.classistatic.com/static/V/9499/js/bootstrap.js:3:28320
+@https://ca.classistatic.com/static/V/9499/js/common.js:1:19737
+@https://ca.classistatic.com/static/V/9499/js/common.js:1:19820
+@https://ca.classistatic.com/static/V/9499/js/common.js:1:19823
+
+JavaScript error: https://ca.classistatic.com/static/V/9499/js/pages/cguid.js, line 1: TypeError: $.cookie is undefined
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js, line 1: Script terminated by timeout at:
+r/<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:420296
+r@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:420275
+0Ogn/</t.withIntl/<@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:26485
+i/<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:422051
+r/</<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:420325
+r/</<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:420321
+r/</<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:420321
+SLAC@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:218430
+p@https://ca.classistatic.com/service-static/frontend-service/runtime.e433c699.js:1:526
+UmyQ@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:253471
+p@https://ca.classistatic.com/service-static/frontend-service/runtime.e433c699.js:1:526
+wIjX/<@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:428244
+wIjX@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:439571
+p@https://ca.classistatic.com/service-static/frontend-service/runtime.e433c699.js:1:526
+Shared/Header/Header@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:347810
+2tKz/</t.getComponent@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:65408
+f@https://ca.classistatic.com/service-static/frontend-service/app.fde5d6df.js:1:4478
+Ji@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:711564
+gu@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:758081
+gs@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:750720
+ms@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:750643
+cs@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:747645
+is@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:744391
+Bs@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:765814
+Js/<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:767056
+fs@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:747995
+Js@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:767042
+yl30/e.hydrate@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:769958
+t/</</<@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:64937
+t/</<@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:64915
+t/<@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:64749
+c@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:535796
+s/i._invoke</<@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:535585
+_/</t[e]@https://ca.classistatic.com/service-static/frontend-service/vendor.b3cc2827.js:1:536218
+g@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:63317
+a@https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js:1:63520
+
+JavaScript error: https://www.kijiji.ca/b-ontario/kijji/k0l9004, line 11540: ReferenceError: Zoop is not defined
+JavaScript warning: https://ca.classistatic.com/static/V/9499/js/lib/prebid-3.21.0.min.js, line 1: Script terminated by timeout at:
+@https://ca.classistatic.com/static/V/9499/js/lib/prebid-3.21.0.min.js:1:30203
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1596793195290	Marionette	INFO	Stopped listening on port 44599
+1596800184553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemsX5Li"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596800187242	Marionette	INFO	Listening on port 38323
+1596800187268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+1596800261938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6UBypU"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596800264601	Marionette	INFO	Listening on port 41469
+1596800264652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596800266606	Marionette	INFO	Stopped listening on port 38323
+1596800437064	Marionette	INFO	Stopped listening on port 41469
+1596800484094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9uzCJc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596800486632	Marionette	INFO	Listening on port 45139
+1596800486705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596800566181	Marionette	INFO	Stopped listening on port 45139
+1596800576737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCINpPa"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596800579195	Marionette	INFO	Listening on port 40997
+1596800579260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1596800656700	Marionette	INFO	Stopped listening on port 40997
+1596801145032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOoWGic"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596801147622	Marionette	INFO	Listening on port 46331
+1596801147643	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1596801156468	Marionette	INFO	Stopped listening on port 46331
+1596801175124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMwa70f"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596801177723	Marionette	INFO	Listening on port 45037
+1596801177741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2187: TypeError: event.target.closest is not a function
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1596801320434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--proxy-server=144.217.101.245:3129" "--remote-debugging-port=3129" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGP4VWm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596801323119	Marionette	INFO	Listening on port 33247
+1596801323146	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+JavaScript warning: https://ca.classistatic.com/service-static/frontend-service/3.08f045b2.js, line 1: unreachable code after return statement
+1596801365786	Marionette	INFO	Stopped listening on port 33247
+1596802207986	Marionette	INFO	Stopped listening on port 45037
